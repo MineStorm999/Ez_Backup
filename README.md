@@ -22,7 +22,8 @@ Open "EzBackupUI.exe" (or the one build without "AUTOSTART" defined) and add bac
 - Press the "Add" button
 - Press the "Save" button
 
-- The added backup should be shown under --------backups---------
+- The added backup should be shown under
+ --------backups---------
   - there you can press it and change the Name and Paths 
 
 - to backup, press Backup All
