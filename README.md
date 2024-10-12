@@ -5,7 +5,7 @@ An easy way to create backups of your directories.
 
 there are two options:
 1. Download the repro and use it with Visual Studio
-   (You can also also delet "build" and confidure with cmake)
+   (You can also also delete "build" and configure with cmake)
 3. Build without "AUTOSTART" defined
 4. Build with "AUTOSTART" defined
 5. grab the exe from /build/{Release/Debug}/
